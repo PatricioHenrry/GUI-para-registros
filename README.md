@@ -1,4 +1,4 @@
-GUI para registros
+💻 ¨**GUI para registros**
 
 Aplicación de escritorio con interfaz gráfica hecha en **Tkinter** (Python) para realizar operaciones **CRUD** (Crear, Leer, Actualizar y Eliminar) sobre una base de datos SQLite.
 
